@@ -4,8 +4,6 @@
   <a href="https://www.linkedin.com/in/ana-alves-santos/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="mailto:anaalves622@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=ana-alves-santos" alt="Ana Alves Santos" />
 </p>
