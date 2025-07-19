@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center"><span color="blue">&lt;</span>Ana <span>&frasl;&gt;</span></h1>
+<h2 align="center">Web Development Student</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ana-alves-santos/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:anaalves622@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ana-alves-santos" alt="Ana Alves Santos" />
+</p>
 
-<!--
-**ana-alves-santos/ana-alves-santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently, I am developing my skills in:
 
-Here are some ideas to get you started:
+- **JavaScript:** Building dynamic and interactive web pages.  
+- **TypeScript:** Learning to write safer and scalable code with types.  
+- **React:** Creating modern and responsive user interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br /> <p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ana-alves-santos&show_icons=true&theme=radical" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-alves-santos&layout=compact&langs_count=5&theme=radical" /> </p> <h3 align="center"> "Learning is the only thing the mind never tires of, never fears, and never regrets." <br />— Leonardo da Vinci </h3> ```
