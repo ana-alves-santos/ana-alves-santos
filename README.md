@@ -10,8 +10,7 @@
 
 🌱 Currently, I am developing my skills in:
 
-- **JavaScript:** Building dynamic and interactive web pages.  
-- **TypeScript:** Learning to write safer and scalable code with types.  
+- **JavaScript:** Building dynamic and interactive web pages.    
 - **React:** Creating modern and responsive user interfaces.
 
 <br /> <p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ana-alves-santos&show_icons=true&theme=radical" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-alves-santos&layout=compact&langs_count=5&theme=radical" /> </p> <h3 align="center"> "Learning is the only thing the mind never tires of, never fears, and never regrets." <br />— Leonardo da Vinci </h3> ```
