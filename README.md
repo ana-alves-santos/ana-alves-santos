@@ -8,6 +8,8 @@
   <img src="https://komarev.com/ghpvc/?username=ana-alves-santos" alt="Ana Alves Santos" />
 </p>
 
-**Currently Developing My Skills In:**  - 🔤 **HTML & CSS**: Structuring and styling responsive web pages   - ⚡ **JavaScript**: Building dynamic and interactive web features 
+**Currently Developing My Skills In:**
+ 🔤 **HTML & CSS**: Structuring and styling responsive web pages
+ ⚡ **JavaScript**: Building dynamic and interactive web features 
 
 <br /> <p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ana-alves-santos&show_icons=true&theme=radical" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-alves-santos&layout=compact&langs_count=5&theme=radical" /> </p> <h3 align="center"> "Learning is the only thing the mind never tires of, never fears, and never regrets." <br />— Leonardo da Vinci </h3> ```
