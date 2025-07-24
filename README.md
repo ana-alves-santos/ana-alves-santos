@@ -9,8 +9,9 @@
 </p>
 
 **Currently Developing My Skills In:**  
-- 🔤 **HTML & CSS**: Structuring and styling responsive web pages  
+- 🔤 **HTML5 & CSS3**: Structuring and styling responsive web pages  
 - ⚡ **JavaScript**: Building dynamic and interactive web features  
+- ⚛️ **React**: Creating component-based user interfaces with reusable logic  
 
 <br />
 
@@ -18,6 +19,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ana-alves-santos&show_icons=true&theme=radical&cache_seconds=60" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-alves-santos&layout=compact&langs_count=8&theme=radical&cache_seconds=60" />
 </p>
+
 
 
 
