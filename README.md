@@ -16,8 +16,9 @@
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ana-alves-santos&show_icons=true&theme=radical&cache_seconds=60" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-alves-santos&layout=compact&langs_count=5&theme=radical&cache_seconds=60" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-alves-santos&layout=compact&langs_count=8&theme=radical&cache_seconds=60" />
 </p>
+
 
 
 
