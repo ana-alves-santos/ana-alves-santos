@@ -9,9 +9,9 @@
 </p>
 
 **Currently Developing My Skills In:**  
-- 🔤 **HTML5 & CSS3**: Structuring and styling responsive web pages  
 - ⚡ **JavaScript**: Building dynamic and interactive web features  
-- ⚛️ **React**: Creating component-based user interfaces with reusable logic  
+- ⚛️ **React**: Creating component-based user interfaces with reusable logic
+- 🔤 **HTML5 & CSS3**: Structuring and styling responsive web pages  
 
 <br />
 
