@@ -10,7 +10,6 @@
 
 **Currently Developing My Skills In:**  
 - ⚡ **JavaScript**: Building dynamic and interactive web features  
-- ⚛️ **React**: Creating component-based user interfaces with reusable logic
 - 🔤 **HTML5 & CSS3**: Structuring and styling responsive web pages  
 
 <br />
