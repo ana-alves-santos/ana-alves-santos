@@ -5,8 +5,6 @@
   <a href="https://www.linkedin.com/in/ana-alves-santos/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ana-alves-santos" alt="Ana Alves Santos" />
-</p>
 
 **Currently Developing My Skills In:**  
 - ⚡ **JavaScript**: Building dynamic and interactive web features  
