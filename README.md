@@ -6,7 +6,7 @@
   <a href="mailto:annaalves622@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://wa.me/5511990142866">
+  <a href="https://wa.me/5511990142886">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ana-alves-santos/">
