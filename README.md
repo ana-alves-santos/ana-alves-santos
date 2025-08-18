@@ -1,4 +1,5 @@
 <h1 align="center"><span style="color:blue">&lt;</span>Ana <span>&frasl;&gt;</span></h1>
+
 <h2 align="center">👩‍💻 Web Development Student | Support Analyst</h2>
 
 <p align="center">
@@ -9,7 +10,7 @@
 
 
 ### 🚀 About Me
-I'm a **Web Development student** and currently working as a **Support Analyst**, transitioning my career into tech.  
+I'm a **Web Development student** and currently working as a **Support Analyst**.
 
 ---
 
