@@ -3,14 +3,21 @@
 <h2 align="center">👩‍💻 Web Development Student | Support Analyst</h2>
 
 <p align="center">
+  <a href="mailto:annaalves622@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/5511990142866">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/ana-alves-santos/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 
+
 ### 🚀 About Me
-I'm a **Web Development student** and currently working as a **Support Analyst**.
+I’m a graduate in Information Systems and currently learning frontend and backend development.
 
 ---
 
@@ -31,5 +38,5 @@ I'm a **Web Development student** and currently working as a **Support Analyst**
 
 
 
-
-
+<h3 align="center">“Learning is the only thing the mind never exhausts, never fears, and never regrets.”</h3>
+<p align="center">— Leonardo da Vinci</p>
