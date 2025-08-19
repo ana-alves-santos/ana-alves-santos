@@ -36,7 +36,3 @@ I’m a graduate in Information Systems and currently learning frontend and back
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-alves-santos&layout=compact&langs_count=8&theme=radical&cache_seconds=60" />
 </p>
 
-
-
-<h3 align="center">“Learning is the only thing the mind never exhausts, never fears, and never regrets.”</h3>
-<p align="center">— Leonardo da Vinci</p>
