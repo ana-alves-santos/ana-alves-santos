@@ -41,6 +41,6 @@
 
 ---
 <p align="center">
- "Learning never exhausts the mind." – Leonardo da Vinci 
+ "Learning never exhausts the mind."
 </p>
 
