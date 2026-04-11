@@ -11,7 +11,9 @@
 
 
 ### 🚀 About Me
-- I’m a graduate in Information Systems and learning frontend and backend development.
+- Graduate in Information Systems
+- Building my career in software development
+- Knowledge in manual testing and system validation
 
 ---
 
