@@ -10,10 +10,3 @@
 </p>
 
 
-### 🚀 About Me
-- Graduate in Information Systems
-- Building my career in software development
-- Knowledge in manual testing and system validation
-
----
-
